@@ -1,2 +1,2 @@
 # linux-commands
-Replication projects of Linux's command lines
+Project to replicate some of Linux's famous commands
