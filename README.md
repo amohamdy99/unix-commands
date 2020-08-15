@@ -1,2 +1,2 @@
 # Uinux-commands
-Project to replicate some of widely-used Uinux commands as practice
+Project to replicate some of popular Uinux programs
